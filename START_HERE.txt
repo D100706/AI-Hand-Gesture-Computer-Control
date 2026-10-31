@@ -1,0 +1,19 @@
+START HERE
+
+1. Extract this ZIP.
+2. Open the extracted folder in VS Code.
+3. Install Python 3.11.
+4. Double-click run.bat or follow the setup commands in README.md.
+5. Allow webcam access.
+
+Keyboard: P = pause/resume, Q = quit.
+
+Gestures:
+Point = move cursor
+Pinch = left click
+Victory = double click
+Fist = hold/drag
+Open palm = scroll
+Thumbs up/down = volume up/down
+
+Safety: this controls your real mouse. Test carefully. Move the cursor to the top-left screen corner for the PyAutoGUI emergency failsafe.
