@@ -153,3 +153,9 @@ GitHub: [D100706](https://github.com/D100706)
 ---
 
 ⭐ If you find this project interesting, consider starring the repository!
+
+## 🎥 Project Demo
+
+Watch the working demonstration of the AI Hand Gesture Computer Control System:
+
+[▶ Watch Demo Video](screenshotsai/demo-video.mp4)
